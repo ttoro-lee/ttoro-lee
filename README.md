@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://ttoro.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=tistory&logoColor=white"/><a href="https://ttoro.tistory.com" target="_blank"></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
