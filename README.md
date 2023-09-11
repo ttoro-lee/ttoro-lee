@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><a href="https://ttoro.tistory.com" target="_blank"></a>
+<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
