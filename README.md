@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ttoro-lee/ttoro-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
