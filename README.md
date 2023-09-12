@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ttoro%20GitHub&fontSize=90)
 
-# Skill
+# My Skill
 <div align="center">
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
