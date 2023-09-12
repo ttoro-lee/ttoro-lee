@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ttoro%20GitHub&fontSize=90)
-
-# My Skill
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ttoro%20GitHub&fontSize=90)
 
-  #### For more information on the project, visit our blog
+  # My Skill
+  
+  #### 💬 For more information on the project, visit our blog
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-  #### Skill
+  #### 🔭 Skill
   <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
