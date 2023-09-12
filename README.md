@@ -16,6 +16,8 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Ttoro%20GitHub&fontSize=90&fontAlign=65)
 
+  <br/>
+
   # My Blog
   
   #### 💬 For more information on the project, visit our blog
