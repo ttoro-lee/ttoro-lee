@@ -26,9 +26,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-</div>
-  
- <br/>
- <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
+   <br/>
+   <br/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
+</div>
+
