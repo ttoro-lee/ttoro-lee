@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
   <br/>
 
-  # My Blog
+  #### My Blog
   
   #### 💬 For more information on the project, visit our blog
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
   <br/>
 
-  # 🔭 My Skill
+  #### 🔭 My Skill
   <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
