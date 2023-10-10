@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
   <br/>
 
+  ### Education
+  - 🎓 Changwon-Nam High School (2014.03 ~ 2017.02)
+  - 🎓 Hankuk University of Foreign Studies, Global (2017.03~ )
+  - 🎓 KT AIVLE School 3rd (2023.01 ~ 2023.07)
+  - 🎓 LG Aimers 3rd (2023.07 ~ 2023.08)
+
+  ### Reward
+  - 🏆️ 2022 Hankuk University of Foreign Studies Capstone design : 우수상
+  - 🏆️ 2023 KT AIVLE School Big Project : Excellence상
+  - 🏆️ 2023 The 1st Railway Artificial Intelligence Competition : 장려상
+
   #### My Blog
   
   #### 💬 For more information on the project, visit our blog
