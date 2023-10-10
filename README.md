@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ttoro%20GitHub&fontSize=90&fontAlign=65)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
   <br/>
-
+  <div align="center">
   #### 🔭 My Skill
   <br/>
   <table>
@@ -104,5 +104,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
 
   <br/>
+</div>
 </div>
 
