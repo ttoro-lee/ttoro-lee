@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <br/>
   
   #### 📫 Contact
-  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:dnsanswkd@naver.com"">
+  <a href="mailto:dnsanswkd@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnsanswkd@naver.com"/></a>
   <br/>
   
   #### 🔭 My Skill
