@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   - 🎓 LG Aimers 3rd (2023.07 ~ 2023.08)
 
   ### Reward
-  - 🏆️ 2022 Hankuk University of Foreign Studies Capstone design(우수상)
-  - 🏆️ 2023 KT AIVLE School Big Project(Excellence상)
-  - 🏆️ 2023 The 1st Railway Artificial Intelligence Competition(장려상)
+  - 🏆️ 2022 Hankuk University of Foreign Studies Capstone design (우수상)
+  - 🏆️ 2023 KT AIVLE School Big Project (Excellence상)
+  - 🏆️ 2023 The 1st Railway Artificial Intelligence Competition (장려상)
 
   <br/>
   <br/>
