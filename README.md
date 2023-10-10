@@ -29,6 +29,11 @@ Here are some ideas to get you started:
   - 🏆️ 2023 KT AIVLE School Big Project (Excellence상)
   - 🏆️ 2023 The 1st Railway Artificial Intelligence Competition (장려상)
 
+  ### Hobby
+  - 🔭 Car Simulator (used T300RS GT)
+  - 🔭 Whisky Tasting
+  - 🔭 Playing Guitar
+
   <br/>
   <br/>
   
@@ -38,6 +43,9 @@ Here are some ideas to get you started:
   
   #### 💬 For more information on the project, visit my blog ↓
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <br/>
+  #### Contact
+  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=dnsanswkd@naver.com&logoColor=white">
   <br/>
   #### 🔭 My Skill
   <br/>
