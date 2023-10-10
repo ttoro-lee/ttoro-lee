@@ -46,8 +46,8 @@ Here are some ideas to get you started:
   <br/>
   
   #### 📫 Contact
-  <a href="mailto:dnsanswkd@naver.com"><img src="https://img.shields.io/badge/Naver-dnsanswkd@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnsanswkd@naver.com"/></a>
-  <a href="mailto:dnsansehtk@gmail.com"><img src="https://img.shields.io/badge/Gmail-dnsansehtk@gmail.com-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnsansehtk@gmail.com"/></a>
+  <a href="mailto:dnsanswkd@naver.com"><img src="https://img.shields.io/badge/Naver-dnsanswkd@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&Height=30&link=mailto:dnsanswkd@naver.com"/></a>
+  <a href="mailto:dnsansehtk@gmail.com"><img src="https://img.shields.io/badge/Gmail-dnsansehtk@gmail.com-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&Height=30&link=mailto:dnsansehtk@gmail.com"/></a>
   <br/>
   
   #### 🔭 My Skill
