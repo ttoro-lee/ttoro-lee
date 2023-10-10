@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - 🏆️ 2022 Hankuk University of Foreign Studies Capstone design : 우수상
   - 🏆️ 2023 KT AIVLE School Big Project : Excellence상
   - 🏆️ 2023 The 1st Railway Artificial Intelligence Competition : 장려상
+  <div align="center">
 
   #### My Blog
   
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
   <br/>
-  <div align="center">
   #### 🔭 My Skill
   <br/>
   <table>
