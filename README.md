@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <br/>
   
-  #### Contact
-  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=dnsanswkd@naver.com&logoColor=white">
+  #### 📫 Contact
+  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:dnsanswkd@naver.com"">
   <br/>
   
   #### 🔭 My Skill
