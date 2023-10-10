@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   - 🔭 Playing Guitar
 
   <br/>
-  <br/>
   
   <div align="center">
 
