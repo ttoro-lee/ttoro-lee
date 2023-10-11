@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   - 🎮 Car Simulator (used T300RS GT)
   - 🍸 Whisky Tasting
   - 🎸 Playing Guitar
+  - 🏋️‍♂️ Weight Trainning
 
   <br/>
   
