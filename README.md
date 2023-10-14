@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   ### Education
   - 🎓 Changwon-Nam High School (2014.03 ~ 2017.02)
   - 🎓 Hankuk University of Foreign Studies, Global (2017.03 ~ )
-  - 🎓 Seoul ICT Innovation Square, AI tech Middle Course (2021.07.05 ~ 2021.08.30)
+  - 🎓 Seoul ICT Innovation Square, AI tech Middle Course (2021.07 ~ 2021.08)
   - 🎓 KT AIVLE School 3rd (2023.01 ~ 2023.07)
   - 🎓 LG Aimers 3rd (2023.07 ~ 2023.08)
 
