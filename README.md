@@ -60,13 +60,13 @@ Here are some ideas to get you started:
   <table>
     <thead>
       <tr>
-        <th align='center'>영역</th>
-        <th align='center'>기술</th>
+        <th align='center'>Area</th>
+        <th align='center'>Tech</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align='center'><strong>프론트엔드</strong></td>
+        <td align='center'><strong>FrontEnd</strong></td>
         <td align='center'>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
         </td>
       </tr>
       <tr>
-        <td align='center'><strong>백엔드</strong></td>
+        <td align='center'><strong>BackEnd</strong></td>
         <td align='center'>
           <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
           <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
         </td>
       </tr>
       <tr>
-        <td align='center'><strong>인프라</strong></td>
+        <td align='center'><strong>Infra</strong></td>
         <td align='center'>
           <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
           <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
         </td>
       </tr>
       <tr>
-        <td align='center'><strong>협업</strong></td>
+        <td align='center'><strong>Cooperation</strong></td>
         <td align='center'>
           <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
           <img src="https://img.shields.io/badge/microsoft teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
