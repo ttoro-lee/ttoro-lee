@@ -121,6 +121,7 @@ Here are some ideas to get you started:
    <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dnsansehtk})](https://solved.ac/{dnsansehtk})
 
   <br/>
 </div>
