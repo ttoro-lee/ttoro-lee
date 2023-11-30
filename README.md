@@ -32,12 +32,12 @@ Here are some ideas to get you started:
   - 🥉 2023 The 1st Railway Artificial Intelligence Competition (장려상)
 
   ### License
-  - Engineer Information Processing (정보처리기사)
-  - Big Data Analyst (빅데이터분석기사)
-  - AICE ASSOCIATE (KT/한국경제신문)
-  - SQLD (SQL Developer)
-  - ADsP (Advanced Data Analytics Semi-Professional)
-  - Linux Master(2nd)
+  - 🪧 Engineer Information Processing (정보처리기사)
+  - 🪧 Big Data Analyst (빅데이터분석기사)
+  - 🪧 AICE ASSOCIATE (KT/한국경제신문)
+  - 🪧 SQLD (SQL Developer)
+  - 🪧 ADsP (Advanced Data Analytics Semi-Professional)
+  - 🪧 Linux Master(2nd)
 
   ### Hobby
   - 🎮 Car Simulator (used T300RS GT)
