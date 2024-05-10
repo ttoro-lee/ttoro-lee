@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <br/>
 
   ## Jobs
-  - 🔭 Diquest NLP researcher (2024.05 ~ )
+  - 🔭 Diquest NLP researcher(AI Tech) (2024.05 ~ )
 
   ### Education
   - 🎓 Changwon-Nam High School (2014.03 ~ 2017.02)
