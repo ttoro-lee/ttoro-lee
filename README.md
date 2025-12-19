@@ -131,7 +131,7 @@ Here are some ideas to get you started:
    <br/>
    <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttoro-lee)](https://github.com/ttoro-lee/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnsansehtk)](https://solved.ac/dnsansehtk)
 
   <br/>
