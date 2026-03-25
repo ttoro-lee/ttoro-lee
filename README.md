@@ -47,6 +47,9 @@ Here are some ideas to get you started:
   - 🍸 Whisky Tasting
   - 🎸 Playing Guitar
   - 🏋️‍♂️ Weight Trainning
+  - 🏃‍♂️ Running (HALF / 10 Km)
+  - ⛰️ Hiking
+  - 🚲 Riding
 
   ### Deploy
   - 💙 Orin Extension (chrome extension Appstore)
