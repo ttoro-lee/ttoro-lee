@@ -48,6 +48,9 @@ Here are some ideas to get you started:
   - 🎸 Playing Guitar
   - 🏋️‍♂️ Weight Trainning
   - 🏃‍♂️ Running (HALF / 10 Km)
+    - 2025 EVERLAND 10K CIRCUIT RUN (00:53:11)
+    - 2026 Goguryeo Marathon HALF (01:56:37)
+    - 2026 GOYANG HALF MARATHON (01:52:00)
   - ⛰️ Hiking
   - 🚲 Riding
 
