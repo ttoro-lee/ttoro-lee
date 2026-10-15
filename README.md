@@ -1,151 +1,106 @@
-<!--
-**ttoro-lee/ttoro-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-<div>
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ttoro%20GitHub&fontSize=90&fontAlign=65)
 
-  <br/>
+### 👋 Hi, I'm Ttoro — NLP Researcher @ Diquest
 
-  ## Jobs
-  - 🔭 Diquest NLP researcher(AI Tech) (2024.05 ~ )
+<a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="mailto:dnsansehtk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dnsanswkd@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a href="https://solved.ac/dnsansehtk" target="_blank"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logoColor=white"/></a>
 
-  ### Education
-  - 🎓 Changwon-Nam High School (2014.03 ~ 2017.02)
-  - 🎓 Hankuk University of Foreign Studies, Global (2017.03 ~ 2024.02 )
-  - 🎓 Seoul ICT Innovation Square, AI tech Middle Course (2021.07 ~ 2021.08)
-  - 🎓 KT AIVLE School 3rd (2023.01 ~ 2023.07)
-  - 🎓 LG Aimers 3rd (2023.07 ~ 2023.08)
+💬 프로젝트에 대한 자세한 내용은 [블로그](https://ttoro.tistory.com/)에서 확인하실 수 있습니다.
 
-  ### Reward
-  - 🥈 2022 Hankuk University of Foreign Studies Capstone design (우수상)
-  - 🏆️ 2023 KT AIVLE School Big Project (Excellence상)
-  - 🥉 2023 The 1st Railway Artificial Intelligence Competition (장려상)
-
-  ### License
-  - 🪧 Engineer Information Processing (정보처리기사)
-  - 🪧 Big Data Analyst (빅데이터분석기사)
-  - 🪧 AICE ASSOCIATE (KT/한국경제신문)
-  - 🪧 SQLD (SQL Developer)
-  - 🪧 ADsP (Advanced Data Analytics Semi-Professional)
-  - 🪧 Linux Master(2nd)
-
-  ### Hobby
-  - 🎮 Car Simulator (used T300RS GT)
-  - 🍸 Whisky Tasting
-  - 🎸 Playing Guitar
-  - 🏋️‍♂️ Weight Trainning
-  - 🏃‍♂️ Running (HALF / 10 Km)
-    - 2025 EVERLAND 10K CIRCUIT RUN (00:53:11)
-    - 2026 Goguryeo Marathon HALF (01:56:37)
-    - 🥇 2026 GOYANG HALF MARATHON (01:52:00) HALF PB
-    - 2026 YONGIN MARATHON (00:48:29)
-    - 2026 GANGNAM HALF RACE (01:55:49)
-    - 🥇 2026 T1 WISH RUN (00:25:05) 5KM PB
-    - 🥇 2026 RUN YOUR WAY SEOUL 10K RACE (00:46:29) 10KM PB
-  - ⛰️ Hiking
-  - 🚲 Riding
-
-  ### Deploy
-  - 💙 Orin Extension (chrome extension Appstore)
-
-  <br/>
-  
-  <div align="center">
-
-  #### 📃 My Blog
-  
-  #### 💬 For more information on the project, visit my blog ↓
-  <a href="https://ttoro.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <br/>
-  
-  #### 📫 Contact
-  <a href="mailto:dnsanswkd@naver.com"><img src="https://img.shields.io/badge/Naver-dnsanswkd@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&Height=30&link=mailto:dnsanswkd@naver.com"/></a>
-  <a href="mailto:dnsansehtk@gmail.com"><img src="https://img.shields.io/badge/Gmail-dnsansehtk@gmail.com-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&Height=30&link=mailto:dnsansehtk@gmail.com"/></a>
-  <br/>
-  
-  #### 🔭 My Skill
-  <br/>
-  <table>
-    <thead>
-      <tr>
-        <th align='center'>Area</th>
-        <th align='center'>Tech</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align='center'><strong>FrontEnd</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-        </td>
-      </tr>
-      <tr>
-        <td align='center'><strong>BackEnd</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-          <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-          <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-        </td>
-      </tr>
-      <tr>
-        <td align='center'><strong>AI</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-          <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-          <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        </td>
-      </tr>
-      <tr>
-        <td align='center'><strong>Infra</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-          <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-          <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-        </td>
-      </tr>
-      <tr>
-        <td align='center'><strong>UI/UX</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-        </td>
-      </tr>
-      <tr>
-        <td align='center'><strong>Cooperation</strong></td>
-        <td align='center'>
-          <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-          <img src="https://img.shields.io/badge/microsoft teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
-          <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-   <br/>
-   <br/>
+</div>
 
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnsansehtk)](https://solved.ac/dnsansehtk)
+## 🛠️ Tech Stack
 
-  <br/>
-</div>
-</div>
+| Area | Tech |
+| :---: | :--- |
+| **AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| **Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Collaboration** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white) |
 
+## 💼 Experience
+
+| Period | Organization | Role |
+| :---: | :--- | :--- |
+| 2024.05 ~ | **Diquest** | NLP Researcher (AI Tech) |
+
+**주요 업무 @ Diquest**
+
+- 🤖 **Delma — DLOps 개발 및 유지보수**
+  - [Delma](https://www.diquest.com/bbs/page.php?hid=q02_01_05): 다이퀘스트의 엔터프라이즈 AI Agent 플랫폼 (TTA GS인증 1등급)
+  - LLM·NLP·추론 모델의 학습 · 파인튜닝 · 배포 · 모니터링 과정을 워크플로우로 관리하는 DLOps 영역 개발
+  - 온프레미스 환경의 모델 운영 및 유지보수
+- 🖥️ **Diquest 딥러닝 서버 개발 및 유지보수**
+  - 사내 딥러닝 모델 학습 · 추론 서버 개발 및 운영
+- 📄 **D-PICK 솔루션 개발**
+
+## 🚀 Deploy
+
+- 💙 **Orin Extension** — Chrome Web Store 확장 프로그램
+
+## 🏆 Awards
+
+| Year | Competition | Result |
+| :---: | :--- | :--- |
+| 2023 | 제1회 철도 인공지능 경진대회 (The 1st Railway AI Competition) | 🥉 장려상 |
+| 2023 | KT AIVLE School Big Project | 🏆 Excellence상 |
+| 2022 | 한국외국어대학교 캡스톤 디자인 (HUFS Capstone Design) | 🥈 우수상 |
+
+## 🎓 Education
+
+| Period | Institution |
+| :---: | :--- |
+| 2023.07 ~ 2023.08 | LG Aimers 3기 |
+| 2023.01 ~ 2023.07 | KT AIVLE School 3기 |
+| 2021.07 ~ 2021.08 | 서울 ICT 이노베이션 스퀘어 — AI 기술 중급 과정 |
+| 2017.03 ~ 2024.02 | 한국외국어대학교 글로벌캠퍼스 (Hankuk University of Foreign Studies) |
+| 2014.03 ~ 2017.02 | 창원남고등학교 (Changwon-Nam High School) |
+
+## 📜 Certifications
+
+- 정보처리기사 (Engineer Information Processing)
+- 빅데이터분석기사 (Big Data Analyst)
+- AICE Associate (KT / 한국경제신문)
+- SQLD (SQL Developer)
+- ADsP (Advanced Data Analytics Semi-Professional)
+- 리눅스마스터 2급 (Linux Master Level 2)
+
+## 🎯 Hobbies
+
+🏃‍♂️ Running · 🏋️‍♂️ Weight Training · 🎸 Guitar · 🍸 Whisky Tasting · 🎮 Car Simulator (T300RS GT) · ⛰️ Hiking · 🚲 Riding
+
+<details>
+<summary><b>🏃‍♂️ Running Records</b> (click to expand)</summary>
+<br/>
+
+**Personal Bests**
+
+| 5K | 10K | Half |
+| :---: | :---: | :---: |
+| **00:25:05** | **00:46:29** | **01:52:00** |
+
+**Race History**
+
+| Year | Race | Distance | Record |
+| :---: | :--- | :---: | :---: |
+| 2026 | RUN YOUR WAY SEOUL 10K RACE | 10K | 00:46:29 🥇 PB |
+| 2026 | T1 WISH RUN | 5K | 00:25:05 🥇 PB |
+| 2026 | GANGNAM HALF RACE | Half | 01:55:49 |
+| 2026 | YONGIN MARATHON | 10K | 00:48:29 |
+| 2026 | GOYANG HALF MARATHON | Half | 01:52:00 🥇 PB |
+| 2026 | Goguryeo Marathon | Half | 01:56:37 |
+| 2025 | EVERLAND 10K CIRCUIT RUN | 10K | 00:53:11 |
+
+</details>
+
+## 📈 Problem Solving
+
+<a href="https://solved.ac/dnsansehtk"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnsansehtk" alt="Solved.ac Profile"/></a>
